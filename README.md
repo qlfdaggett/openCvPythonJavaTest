@@ -2,7 +2,7 @@
 
 Demonstration for possible opencv solutions for nautilus JRNY. 
 
-Requires an installation of openCV for python. Pip is probably your best option for aquisition. 
+Requires an installation of openCV for python. Pip is probably your best option for acquisition. 
 
 
 I decied to run openCV through python because running it through java required a different JDK from the one we're using for the project.
